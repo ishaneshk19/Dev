@@ -1,0 +1,1 @@
+Creating a standalone, vanilla HTML/CSS/JS project (Computer Engineering–focused): a small “Dev Toolkit” site with JSON formatting, Base64, URL encoding, SHA-256 hashing, and UUID generation — easy to read and host on GitHub Pages.
